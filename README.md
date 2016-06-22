@@ -19,7 +19,7 @@ Go to [microcenter](https://www.microcenter.com) or [adafruit](https://www.adafr
 
 ## Download the Operating System
 0. Go to [raspberrypi.org](https://www.raspberrypi.org/downloads/raspbian/)
-0. Download the `Raspbian (lite)` version
+0. Download the `Raspbian Jessie (lite)` version
 0. Unzip the downloaded file
 
 ## Copy the OS onto the SD Card
