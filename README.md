@@ -23,7 +23,11 @@ Go to [microcenter](https://www.microcenter.com) or [adafruit](https://www.adafr
 0. Unzip the downloaded file
 
 ## Copy the OS onto the SD Card
-Follow these [instructions](https://www.raspberrypi.org/documentation/installation/installing-images/README.md) from raspberrypi.org.
+Follow these instructions from raspberrypi.org for:
+
+* [linux](https://www.raspberrypi.org/documentation/installation/installing-images/linux.md)
+* [mac](https://www.raspberrypi.org/documentation/installation/installing-images/mac.md)
+* [windows](https://www.raspberrypi.org/documentation/installation/installing-images/windows.md)
 
 ## Setup the hardware and boot
 0. Insert the SD card into the raspberry pi
