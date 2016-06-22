@@ -43,4 +43,4 @@ Follow these instructions from raspberrypi.org for:
 
 ## Get the IP address
 0. After login, at the prompt type in: `ifconfig`
-0. Look for an IP in the local network range (192.168.1.27)
+0. Look for an IP in the local network range (example: 192.168.1.27)
