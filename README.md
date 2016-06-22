@@ -1,5 +1,5 @@
 # How to build a new Raspberry Pi from scratch
-Go to [adafruit](https://www.adafruit.com) or [microcenter](https://www.microcenter.com) and shop for a Raspberry Pi:
+Go to [microcenter](https://www.microcenter.com) or [adafruit](https://www.adafruit.com) and shop for a Raspberry Pi:
 
 * Raspberry Pi Board (computer)
 * Raspberry Pi case
