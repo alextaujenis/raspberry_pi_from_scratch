@@ -1,7 +1,7 @@
 # How to build a new Raspberry Pi from scratch
 Go to [microcenter](https://www.microcenter.com) or [adafruit](https://www.adafruit.com) and shop for a Raspberry Pi:
 
-* Raspberry Pi Board (computer)
+* Raspberry Pi 3 Model B (is the [latest](https://www.raspberrypi.org/products/raspberry-pi-3-model-b/))
 * Raspberry Pi case
 * 2A power supply
 * MicroSD Card
