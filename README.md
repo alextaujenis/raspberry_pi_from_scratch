@@ -46,4 +46,4 @@ Click on _your_ operating system (below) that downloaded the file for specific i
 0. Look for an IP in the local network range (example: 192.168.1.27)
 
 ## Configure the OS
-[Continue reading](DEVOPS.md) to configure the newly installed Linux Operating System.
+[Continue reading](DEVOPS.md) to configure the newly installed Operating System.
