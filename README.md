@@ -44,3 +44,6 @@ Follow these instructions from raspberrypi.org for:
 ## Get the IP address
 0. After login, at the prompt type in: `ifconfig`
 0. Look for an IP in the local network range (example: 192.168.1.27)
+
+## Configure the OS
+[Continue reading](DEVOPS.md) to configure the newly installed Linux Operating System.
