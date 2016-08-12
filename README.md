@@ -22,12 +22,12 @@ Go shop for a Raspberry Pi and some accessories:
 0. Download the `Raspbian Jessie (lite)` version
 0. Unzip the downloaded file
 
-## Copy the OS onto the SD Card
-Follow these instructions from raspberrypi.org for:
+## Install the Operating System onto the SD Card
+Click on _your_ operating system (below) that downloaded the file for specific instructions next.
 
-* [linux](https://www.raspberrypi.org/documentation/installation/installing-images/linux.md)
-* [mac](https://www.raspberrypi.org/documentation/installation/installing-images/mac.md)
-* [windows](https://www.raspberrypi.org/documentation/installation/installing-images/windows.md)
+* [Windows](https://www.raspberrypi.org/documentation/installation/installing-images/windows.md)
+* [Mac](https://www.raspberrypi.org/documentation/installation/installing-images/mac.md)
+* [Linux](https://www.raspberrypi.org/documentation/installation/installing-images/linux.md)
 
 ## Setup the hardware and boot
 0. Insert the SD card into the raspberry pi
