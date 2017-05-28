@@ -38,11 +38,19 @@ Click on _your_ operating system (below) that downloaded the file for specific i
 1. Wait for the login prompt (on screen)
 
 ## Login
-1. At the login prompt type in: `pi`
-1. At the password prompt type in: `raspberry`
+1. At the login prompt type: `pi`
+1. At the password prompt type: `raspberry`
+
+## Enable SSH
+1. At the prompt type: `sudo raspi-config`
+1. Select `Interfacing Options`
+1. Navigate to and select `SSH`
+1. Choose `Yes`
+1. Select `Ok`
+1. Choose `Finish`
 
 ## Get the IP address
-1. After login, at the prompt type in: `ifconfig`
+1. At the prompt type: `ifconfig | grep inet`
 1. Look for an IP in the local network range (example: 192.168.1.27)
 
 ## Configure the OS
